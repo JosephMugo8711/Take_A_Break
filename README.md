@@ -12,3 +12,7 @@ Open up a browser to play the music
 It will occur multiple times a day while you study or work  so i will put the above 
 2 steps in a loop
 
+
+
+https://user-images.githubusercontent.com/91910681/193404386-8b0897ec-cd41-40fb-87ee-893824446b4d.mp4
+
