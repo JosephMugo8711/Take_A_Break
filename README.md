@@ -1,0 +1,2 @@
+# Take_A_Break
+A python program that schedules breaks throughout the day to remind the user to take a break from time to time
